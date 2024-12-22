@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAl0Cd9mdC5y4E0XOSvEyI5TNA_tPVA67A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>832379990127</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>az.nasibovan.n9</string>
+	<key>PROJECT_ID</key>
+	<string>n9-destinyhub</string>
+	<key>STORAGE_BUCKET</key>
+	<string>n9-destinyhub.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:832379990127:ios:c6b042121093b2bb645d9a</string>
+</dict>
+</plist>

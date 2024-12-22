@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832379990127",
+    "project_id": "n9-destinyhub",
+    "storage_bucket": "n9-destinyhub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832379990127:android:38a953d93a958d1d645d9a",
+        "android_client_info": {
+          "package_name": "az.nasibova.n9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACTV6t3hmYJqLrn0GvBPZvWEPXOOt1O1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
